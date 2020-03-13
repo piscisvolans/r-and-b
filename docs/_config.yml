@@ -9,9 +9,9 @@ description: "Rebecca and Benigno are getting married!"
 color:
   primary-dark: '#284d46'
   primary-light: '#fff'
-  primary-accent: '#ffb400'
-  links: '#ffb400'
-  links-hover: '#ffb400'
+  primary-accent: '#e5a200'
+  links: '#e5a200'
+  links-hover: '#e5a200'
   text-dark: '#393939'
   text-light: '#d3d3d3'
 

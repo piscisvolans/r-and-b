@@ -34,7 +34,8 @@ h6 {
 }
 
 .date {
-	color: {{ site.color.primary-accent }}
+	color: {{ site.color.primary-accent }};
+	letter-spacing: 2px;
 }
 
 p, .lead {
