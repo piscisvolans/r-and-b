@@ -1,29 +1,26 @@
-# Dependencies
-markdown:         kramdown
-highlights:       pygments
+# Site settings
+title: Rebecca & Benigno
+email: wedding@rebeccaandbenigno.com
+url: http://www.rebeccaandbenigno.com
+baseurl: ""
+description: "Rebecca and Benigno are getting married!"
 
-# Permalinks
-permalink:        pretty
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#284d46'
+  primary-light: '#fff'
+  primary-accent: '#ffb400'
+  links: '#ffb400'
+  links-hover: '#ffb400'
+  text-dark: '#393939'
+  text-light: '#d3d3d3'
 
-# Setup
-title:            Rebecca & Benigno
-name:			  Rebecca and Benigno's wedding site
-tagline:          "Rebecca & Benigno"
-url:              http://rebeccaandbenigno.com
-description:	  Rebecca and Benigno's wedding site
-paginate:         5
-baseurl:          ""
-excerpt_separator: <!--more-->
-author:
-  name:           Rebecca Holmes
-  url:            https://rebeccaholmes.net
-  email:          rebecca.morgan.holmes@gmail.com
+# Footer settings
+footer: "Rebecca & Benigno"
 
-# Custom vars
-github:
-  repo:           https://github.com/piscisvolans/r-and-b
-pages_list:       
-  About: '/about'
-  Poetry: '/poetry'
-  Archive: '/archive'
-  Feed: '/rss.xml'
+# Social networks
+social:
+
+# Build
+markdown: rdiscount
+permalink: pretty

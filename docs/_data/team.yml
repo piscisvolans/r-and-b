@@ -1,0 +1,39 @@
+# List of team members
+
+- name: "Students"
+  people:
+    - name: "Alex Hill"
+    - name: "Brandon Powers"
+    - name: "Brooke Polak"
+    - name: "Cheol Lee"
+    - name: "Courtney Krafczyk"
+    - name: "Daniel Stelzer"
+    - name: "Dawn Kaken"
+    - name: "Elisabeth Lang"
+    - name: "Eric Wynne"
+    - name: "Julia Spina"
+    - name: "Kayla Peck"
+    - name: "Kristina Meier"
+    - name: "Rebecca Holmes"
+    - name: "Vivian Li"
+    - name: "Yanting Teng"
+
+- name: "Leaders"
+  people:
+    - name: "Professor Paul Kwiat"
+    - name: "Rebecca Wiltfong"
+    - name: "Professor Tim Stelzer"
+
+- name: "Volunteers"
+  people:
+    - name: "Alejandro DiPrizio"
+    - name: "Barry Isralewitz"
+    - name: "Brad Clymer"
+    - name: "Gary Stitt"
+    - name: "Jim Payne"
+    - name: "Professor Kevin Pitts"
+    - name: "Leo Wiltfong"
+    - name: "Mike Haney"
+    - name: "Professor Nadya Mason"
+    - name: "Sarah Scott"
+    - name: "Scott Schmidt"

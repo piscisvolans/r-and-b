@@ -1,0 +1,29 @@
+# Dependencies
+markdown:         kramdown
+highlights:       pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Rebecca & Benigno
+name:			  Rebecca and Benigno's wedding site
+tagline:          "Rebecca & Benigno"
+url:              http://rebeccaandbenigno.com
+description:	  Rebecca and Benigno's wedding site
+paginate:         5
+baseurl:          ""
+excerpt_separator: <!--more-->
+author:
+  name:           Rebecca Holmes
+  url:            https://rebeccaholmes.net
+  email:          rebecca.morgan.holmes@gmail.com
+
+# Custom vars
+github:
+  repo:           https://github.com/piscisvolans/r-and-b
+pages_list:       
+  About: '/about'
+  Poetry: '/poetry'
+  Archive: '/archive'
+  Feed: '/rss.xml'
