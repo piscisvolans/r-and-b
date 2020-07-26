@@ -39,7 +39,7 @@ h6 {
 }
 
 .old-date {
-	color: {{ site.color.primary }};
+	color: {{ site.color.primary-accent }};
 	letter-spacing: 2px;
 	text-decoration: line-through
 }
